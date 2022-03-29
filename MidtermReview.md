@@ -168,8 +168,9 @@ class Graph {
 ```
 
 ### Other
-* In the below code snippet, what is the purpose of the <h1> tags?
+* In the below code snippet, what is the purpose of the `<h1>` tags?
+```
 <h1>Fox</h1>
 <p>Foxes are small to medium-sized, omnivorous mammals belonging to several genera of the family Canidae. </p>
-
+```
 * What is the name of a computer technique which solves through a bunch of random trials what is difficult to solve through equations or calculations?
